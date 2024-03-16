@@ -10,7 +10,8 @@ How to run this application with Docker:
 - Open locally with ``http://localhost:1234/``
 
 # Note #
-The text is in french
+- This project was generated with Angular CLI version 13.0.3.
+- The text is in french.
 
 # Credits #
 The application uses a droid loader that gets displayed before the quiz results, which was taken from [this CodePen project](https://codepen.io/franksLaboratory/pen/mdyewbW) by Frank's Laboratories, licensed under the MIT license and therefore free of use.
